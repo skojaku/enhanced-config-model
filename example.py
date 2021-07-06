@@ -1,7 +1,4 @@
-Enhanced configuration model 
 
-
-```python
 class ADAM():
 ​
     def __init__(self):
@@ -118,4 +115,3 @@ for i in range(100000):
 			break
 		if (i - min_error_i) > 10000:
 			break
-```
